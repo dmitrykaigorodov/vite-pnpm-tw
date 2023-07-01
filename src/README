@@ -1,0 +1,7 @@
+/ -- homepage
+/user/1
+/user/2
+/user/3
+*/404
+** lazy
+** loader https://reactrouter.com/en/main/route/loader
